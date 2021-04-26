@@ -1,7 +1,3 @@
-# covid-tracker
-A simple covid tracker built with vue
-
-
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -14,7 +10,7 @@ A simple covid tracker built with vue
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">COVID19-tracker</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -48,7 +44,6 @@ A simple covid tracker built with vue
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>

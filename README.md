@@ -131,9 +131,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/SutzakuX) - email@example.com
+Your Name - [@SutzakuX](https://twitter.com/SutzakuX) - email@example.com
 
-Github Link: [https://github.com/your_username/repo_name](https://github.com/migben/covid-tracker)
+Github Link: [github.com/migben/thisProject](https://github.com/migben/covid-tracker)
 
 
 
